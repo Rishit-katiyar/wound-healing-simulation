@@ -1,6 +1,6 @@
 # Wound Healing Simulation 🩹💻
 
-Welcome to the Wound Healing Simulation project! This Python simulation models the process of wound healing, incorporating biological principles such as chemotaxis, cell proliferation, differentiation, and apoptosis.
+Welcome to the Wound Healing Simulation project! This Python simulation models the intricate process of wound healing, aiming to provide insights into the dynamic biological mechanisms involved in tissue repair. By incorporating principles such as chemotaxis, cell proliferation, differentiation, and apoptosis, the simulation offers a realistic representation of wound healing in biological systems. Through an interactive and visually appealing interface, users can observe how different factors influence the progression of wound healing over time. Whether you're a student exploring the fundamentals of biology or a researcher investigating tissue regeneration, this simulation serves as a valuable tool for understanding the complexities of wound healing in living organisms.
 
 <p align="center">
   <img src="https://github.com/Rishit-katiyar/wound-healing-simulation/assets/167756997/ec8b3006-bef3-4d77-82ce-c840f942e3f4" alt="wound_healing_simulation" width="700"/>
