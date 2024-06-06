@@ -35,7 +35,7 @@ Follow these steps to set up the simulation on your local machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Rishit-katiyar/wound-healing-simulation.git
+ git clone https://github.com/Rishit-katiyar/wound-healing-simulation.git
 ```
 
 ### Navigate to the Project Directory
