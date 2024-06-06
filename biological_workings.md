@@ -8,17 +8,17 @@ Wound healing is essential for tissue repair and restoration of tissue integrity
 
 ## 2. Biological Mechanisms of Wound Healing
 
-### 2.1. Inflammation Phase
-
-The initial phase of wound healing is inflammation, characterized by the recruitment of immune cells, such as neutrophils and macrophages, to the site of injury. Inflammatory cytokines and growth factors orchestrate immune cell activation and tissue clearance, creating a conducive environment for subsequent phases.
-
-### 2.2. Proliferative Phase
-
-During the proliferative phase, various cell types, including epithelial cells, fibroblasts, and endothelial cells, proliferate and migrate to the wound site. Epithelial cells form a new epithelial layer to cover the wound, while fibroblasts produce extracellular matrix components, such as collagen, to support tissue regeneration. Angiogenesis, the formation of new blood vessels, also occurs during this phase to supply nutrients and oxygen to the healing tissue.
-
-### 2.3. Remodeling Phase
-
-The final phase of wound healing is remodeling, where the newly formed tissue undergoes maturation and remodeling. Excess collagen is degraded, and the extracellular matrix is reorganized to improve tissue strength and function. The balance between collagen synthesis and degradation is crucial for achieving optimal wound healing outcomes.
+  ### 2.1. Inflammation Phase
+  
+  The initial phase of wound healing is inflammation, characterized by the recruitment of immune cells, such as neutrophils and macrophages, to the site of injury. Inflammatory cytokines and growth factors orchestrate immune cell activation and tissue clearance, creating a conducive environment for subsequent phases.
+  
+  ### 2.2. Proliferative Phase
+  
+  During the proliferative phase, various cell types, including epithelial cells, fibroblasts, and endothelial cells, proliferate and migrate to the wound site. Epithelial cells form a new epithelial layer to cover the wound, while fibroblasts produce extracellular matrix components, such as collagen, to support tissue regeneration. Angiogenesis, the formation of new blood vessels, also occurs during this phase to supply nutrients and oxygen to the healing tissue.
+  
+  ### 2.3. Remodeling Phase
+  
+  The final phase of wound healing is remodeling, where the newly formed tissue undergoes maturation and remodeling. Excess collagen is degraded, and the extracellular matrix is reorganized to improve tissue strength and function. The balance between collagen synthesis and degradation is crucial for achieving optimal wound healing outcomes.
 
 ## 3. Computational Modeling of Wound Healing
 
