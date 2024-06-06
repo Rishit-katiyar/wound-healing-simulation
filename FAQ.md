@@ -1,6 +1,6 @@
 # Biological Simulations with Python: FAQ
 
-### 1.What are biological simulations?
+### 1. What are biological simulations?
 Biological simulations are computational models that replicate the behavior and interactions of biological systems. These simulations can help researchers understand complex biological processes, test hypotheses, and predict outcomes under different scenarios.
 
 ### Why use Python for biological simulations?
