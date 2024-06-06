@@ -55,7 +55,7 @@ cd wound-healing-simulation
 To run the simulation, execute the following command:
 
 ```bash
-python wound_healing_simulation.py
+ python wound_healing_simulation.py
 ```
 
 This will launch the simulation window where you can observe the wound healing process over time. You can adjust the simulation parameters and constants in the Python script to customize the behavior of the simulation.
